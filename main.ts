@@ -1,4 +1,4 @@
-//% color=#157432 icon="\uf03e"
+//% color=#157432 icon="\uf03e" block="画点阵图"
 namespace imageio {
     //% block="5×5"
     //% weight=100
