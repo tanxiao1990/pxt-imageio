@@ -86,7 +86,6 @@ namespace imageio {
     //% weight=101
     //% subcategory="超大图"
     //% shim=images::createImage
-    //% imageLiteral=1 imageLiteralRows=64 imageLiteralColumns=128
     export function createDMWCImage64x128(leds: string): Image {
         return createImage64x128(`
         . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
